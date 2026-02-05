@@ -3,6 +3,42 @@
 This repository consists of solutions to assignments and links to a project from **50.007 - Machine Learning**, a module took in Summer 2024, from the faculty of **Information Systems Technology & Design** (**ISTD**) at the
 _**Singapore University of Technology & Design**_ (**SUTD**).
 
+## Repository Structure
+
+```zsh
+.
+├── docs/
+│   └── W<n>L<m>.pdf                        # Lecture files where n = Week; m = Lecture
+├── HW1/
+│   ├── Question 2/
+│   │   ├── Qn2_Classification.ipynb        # Q2 notebook
+│   │   ├── test_1_5.csv                    # test data
+│   │   └── train_1_5.csv                   # train data
+│   ├── Question 4/
+│   │   ├── hw1_ridge_x.dat                 # X data
+│   │   ├── hw1_ridge_y.dat                 # y data
+│   │   └── Qn4_RidgeRegression.ipynb       # Q4 notebook
+│   ├── HW1.pdf                             # HW1 documentation
+│   ├── hw1q4_plot_samplecode.py            # sample code for Q4
+│   └── Qn5_GeometricMedian.py              # Q5 implementation
+├── HW2/
+│   └── HW2.pdf                             # HW2 documentation
+├── notes/
+│   ├── linear-algebra-review.pdf           # linear algebra notes
+│   └── W<n>C<m>.pdf                        # Cohort files where n = Week; m = Cohort
+├── .gitignore
+├── LICENSE
+└── README.md                               # Read this please!
+```
+
+## Lectures
+
+[`docs/`](/docs/) - Lecture slides and materials for Weeks 1 - 5.
+
+## Notes
+
+[`notes/`](/notes/) - Cohort session materials and notes by week.
+
 ## Homework
 
 In **Homework 1** (**HW1**) there were two questions which require further implementation of machine learning models and they are listed as followed:
