@@ -31,15 +31,15 @@ _**Singapore University of Technology & Design**_ (**SUTD**).
 └── README.md                               # Read this please!
 ```
 
-## Lectures
+## Lectures & Cohort
 
-[`docs/`](/docs/) - Lecture slides and materials for Weeks 1 - 5.
-
-## Notes
-
-[`notes/`](/notes/) - Cohort session materials and notes by week.
+1. [`docs/`](/docs/) - Lecture slides and materials for Weeks 1 - 5.
+2. [`notes/`](/notes/) - Cohort session materials and notes by week.
 
 ## Homework
+
+> [!NOTE]  
+> HW1 & HW2 are mostly handwritten and not documented below in this section as their documentation can be found in their respective directories - [`HW1/`](/HW1/) & [`HW2/`](/HW2/).
 
 In **Homework 1** (**HW1**) there were two questions which require further implementation of machine learning models and they are listed as followed:
 
